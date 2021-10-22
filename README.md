@@ -1,4 +1,14 @@
-### Hi there 👋
+- 🔭 Searching for a job
+- 🌱 I’m currently learning NodeJS, NextJS, NestJS, TypeScript
+- :computer: My pet projects and study assignments
+    - Planning poker - <a target="_blank" href="https://github.com/AleksandroSN/planing-poker"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    - First step in react - <a target="_blank" href="https://github.com/AleksandroSN/aleksandrosn-react2021Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    - RSSchool 2021Q1 - <a target="_blank" href="https://github.com/AleksandroSN/RSSchool2021Q1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    - RSSchool 2020Q3 - <a target="_blank" href="https://github.com/AleksandroSN/RSSchool2020Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+- 📫 How to reach me:
+<a target="_blank" href="https://t.me/Fergog"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
+<a target="_blank" href="mailto:aleksandrosn.krd@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=Gmail&labelColor=black"/></a>
+<a target="_blank" href="https://www.codewars.com/users/AleksandroSN"><img src="https://www.codewars.com/users/AleksandroSN/badges/micro"/></a><br>
 
 <!--
 **AleksandroSN/AleksandroSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
