@@ -1,5 +1,5 @@
 - 🔭 Searching for a job
-- 🌱 I’m currently learning NodeJS, NextJS, NestJS, TypeScript
+- 🌱 I’m currently learning NextJS, NestJS, TypeScript, Angular
 - :computer: My pet projects and study assignments
     - Planning poker - <a target="_blank" href="https://github.com/AleksandroSN/planing-poker"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - First step in react - <a target="_blank" href="https://github.com/AleksandroSN/aleksandrosn-react2021Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
