@@ -5,6 +5,12 @@
     - First step in react - <a target="_blank" href="https://github.com/AleksandroSN/aleksandrosn-react2021Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - RSSchool 2021Q1 - <a target="_blank" href="https://github.com/AleksandroSN/RSSchool2021Q1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - RSSchool 2020Q3 - <a target="_blank" href="https://github.com/AleksandroSN/RSSchool2020Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    - Udemy - <a target="_blank" href="https://github.com/AleksandroSN/Udemy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+- Work example
+    - [YelpCamp](http://yelpcamp-aleksandro.herokuapp.com/). Technologies: NestJS, EJS, Mongo, Sessions, Cookie, TailwindCSS
+    - [PlanningPoker](https://softwarts-planning-poker.netlify.app/). Technologies: React, React Hooks, React router, Redux, Redux-thunk, Express, WebSocket, AWS, CI\CD, Agile
+    - [Pokemons](https://silly-swirles-03775c.netlify.app/). Technologies: React, React Hooks, React router, Redux, Redux-thunk
+    - [EnglishForKids](https://aleksandrosn-jsfe2021-english-4-kids.netlify.app/game). Technologies: React, React Hooks, React router, AWS, CD
 - 📫 How to reach me:
 <a target="_blank" href="https://t.me/Fergog"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
 <a target="_blank" href="mailto:aleksandrosn.krd@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=Gmail&labelColor=black"/></a>
