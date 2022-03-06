@@ -12,6 +12,7 @@
     - [PlanningPoker](https://softwarts-planning-poker.netlify.app/). Technologies: React, React Hooks, React router, Redux, Redux-thunk, Express, WebSocket, AWS, CI\CD, Agile
     - [Pokemons](https://silly-swirles-03775c.netlify.app/). Technologies: React, React Hooks, React router, Redux, Redux-thunk
     - [EnglishForKids](https://aleksandrosn-jsfe2021-english-4-kids.netlify.app/game). Technologies: React, React Hooks, React router, AWS, CD
+    - [Online-zoo](https://aleksandrosn.github.io/RSSchool2021Q1/online-zoo/). Technologies: HTML, SCSS, JS, Webpack
 - 📫 How to reach me:
 <a target="_blank" href="https://t.me/Fergog"><img src="https://img.shields.io/badge/Telegram-000000?style=plastic&logo=Telegram&labelColor=black"/></a>
 <a target="_blank" href="mailto:aleksandrosn.krd@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=Gmail&labelColor=black"/></a>
