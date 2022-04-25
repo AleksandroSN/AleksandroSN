@@ -9,6 +9,7 @@
     - NodeJS - <a target="_blank" href="https://github.com/AleksandroSN/nodejs2021Q4-service"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - Udemy - <a target="_blank" href="https://github.com/AleksandroSN/Udemy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 - Work example
+    - [Youtube-client](https://aleksandrosn-youtube-client.netlify.app/). Technologies: Angular, Angular-router, Angular-material,NgRX  
     - [YelpCamp](http://yelpcamp-aleksandro.herokuapp.com/). Technologies: NestJS, EJS, Mongo, Sessions, Cookie, TailwindCSS
     - [PlanningPoker](https://softwarts-planning-poker.netlify.app/). Technologies: React, React Hooks, React router, Redux, Redux-thunk, Express, WebSocket, AWS, CI\CD, Agile
     - [Pokemons](https://silly-swirles-03775c.netlify.app/). Technologies: React, React Hooks, React router, Redux, Redux-thunk
