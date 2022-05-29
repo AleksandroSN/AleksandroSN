@@ -1,14 +1,15 @@
-- 🔭 Searching for a job
+- 👯 I am currently working as a Frontend Developer in the DIGITAL SECTOR.
 - 🌱 I’m currently learning NextJS, NestJS, TypeScript, Angular
 - :computer: My pet projects and study assignments
+     - Project management app - <a target="_blank" href="[https://github.com/AleksandroSN/planing-poker](https://github.com/AleksandroSN/project-management-app)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - Planning poker - <a target="_blank" href="https://github.com/AleksandroSN/planing-poker"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - First step in Angular - <a target="_blank" href="https://github.com/AleksandroSN/youtube-client"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - First step in React - <a target="_blank" href="https://github.com/AleksandroSN/aleksandrosn-react2021Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    - RSSchool 2021Q1 - <a target="_blank" href="https://github.com/AleksandroSN/RSSchool2021Q1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    - RSSchool 2020Q3 - <a target="_blank" href="https://github.com/AleksandroSN/RSSchool2020Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    - RSSchool FE 2021Q1 - <a target="_blank" href="https://github.com/AleksandroSN/RSSchool2021Q1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - NodeJS - <a target="_blank" href="https://github.com/AleksandroSN/nodejs2021Q4-service"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - Udemy - <a target="_blank" href="https://github.com/AleksandroSN/Udemy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 - Work example
+    - [Project management app](https://angular-task-manager-fzh.netlify.app/). Technologies: Angular, Angular-router, Angular-material,NgRX 
     - [Youtube-client](https://aleksandrosn-youtube-client.netlify.app/). Technologies: Angular, Angular-router, Angular-material,NgRX  
     - [YelpCamp](http://yelpcamp-aleksandro.herokuapp.com/). Technologies: NestJS, EJS, Mongo, Sessions, Cookie, TailwindCSS
     - [PlanningPoker](https://softwarts-planning-poker.netlify.app/). Technologies: React, React Hooks, React router, Redux, Redux-thunk, Express, WebSocket, AWS, CI\CD, Agile
