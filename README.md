@@ -1,7 +1,7 @@
 - 👯 I am currently working as a Frontend Developer in the DIGITAL SECTOR.
 - 🌱 I’m currently learning NextJS, NestJS, TypeScript, Angular
 - :computer: My pet projects and study assignments
-     - Project management app - <a target="_blank" href="[https://github.com/AleksandroSN/planing-poker](https://github.com/AleksandroSN/project-management-app)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+     - Project management app - <a target="_blank" href="https://github.com/AleksandroSN/project-management-app"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - Planning poker - <a target="_blank" href="https://github.com/AleksandroSN/planing-poker"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - First step in Angular - <a target="_blank" href="https://github.com/AleksandroSN/youtube-client"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     - First step in React - <a target="_blank" href="https://github.com/AleksandroSN/aleksandrosn-react2021Q3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
